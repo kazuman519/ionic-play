@@ -13,6 +13,7 @@
   "main": "index.js",
   "dependencies": {
     "@capacitor/core": "1.5.0",
+    "@capacitor/ios": "^1.5.0",
     "@ionic/vue": "0.0.4",
     "cordova": "^9.0.0",
     "core-js": "^3.6.4",
