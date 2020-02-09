@@ -12,6 +12,7 @@
   },
   "main": "index.js",
   "dependencies": {
+    "@capacitor/core": "1.5.0",
     "@ionic/vue": "0.0.4",
     "cordova": "^9.0.0",
     "core-js": "^3.6.4",
@@ -20,6 +21,7 @@
     "vue-router": "^3.1.5"
   },
   "devDependencies": {
+    "@capacitor/cli": "1.5.0",
     "@vue/cli-plugin-babel": "~4.2.0",
     "@vue/cli-plugin-eslint": "~4.2.0",
     "@vue/cli-plugin-router": "^4.2.2",
