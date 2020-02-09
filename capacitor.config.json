@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.kazumar.ionic-play",
   "appName": "ionic-play",
   "bundledWebRuntime": false,
   "npmClient": "npm",
